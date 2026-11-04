@@ -1,2 +1,3 @@
  change the footer color to green
  change the footer color to red
+Hotfix applied directly on the main
